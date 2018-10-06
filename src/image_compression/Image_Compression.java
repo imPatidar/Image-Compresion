@@ -12,6 +12,8 @@ import java.awt.image.*;
 import javax.imageio.*;
 import javax.imageio.stream.ImageOutputStream;
 
+//This is a comment
+
 class Image_Compression {
 
    public static void main(String[] args) throws IOException {
